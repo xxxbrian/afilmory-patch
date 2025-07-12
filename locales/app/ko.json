@@ -165,6 +165,7 @@
   "exif.raw.category.video": "비디오/HEIF 속성",
   "exif.raw.category.whiteBalance": "화이트 밸런스",
   "exif.raw.description": "이미지 파일에서 추출된 완전한 EXIF 메타데이터",
+  "exif.raw.loading": "EXIF 데이터 로딩 중...",
   "exif.raw.no.data": "EXIF 데이터가 없습니다",
   "exif.raw.parse.error": "EXIF 데이터 분석에 실패했습니다",
   "exif.raw.title": "원시 EXIF 데이터",

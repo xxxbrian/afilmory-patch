@@ -165,6 +165,7 @@
   "exif.raw.category.video": "影片/HEIF 屬性",
   "exif.raw.category.whiteBalance": "白平衡",
   "exif.raw.description": "從圖像檔案中提取的完整 EXIF 元數據",
+  "exif.raw.loading": "正在載入 EXIF 資料...",
   "exif.raw.no.data": "無 EXIF 數據",
   "exif.raw.parse.error": "解析 EXIF 數據失敗",
   "exif.raw.title": "原始 EXIF 數據",

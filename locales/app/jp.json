@@ -165,6 +165,7 @@
   "exif.raw.category.video": "動画/HEIF プロパティ",
   "exif.raw.category.whiteBalance": "ホワイトバランス",
   "exif.raw.description": "画像ファイルから抽出された完全な EXIF メタデータ",
+  "exif.raw.loading": "EXIF データを読み込み中...",
   "exif.raw.no.data": "EXIF データがありません",
   "exif.raw.parse.error": "EXIF データの解析に失敗しました",
   "exif.raw.title": "生の EXIF データ",
